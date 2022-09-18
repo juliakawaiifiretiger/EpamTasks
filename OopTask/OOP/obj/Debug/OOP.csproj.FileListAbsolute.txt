@@ -1,6 +1,0 @@
-C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\OOP\OOP\bin\Debug\OOP.exe.config
-C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\OOP\OOP\bin\Debug\OOP.exe
-C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\OOP\OOP\bin\Debug\OOP.pdb
-C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
-C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\OOP\OOP\obj\Debug\OOP.exe
-C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\OOP\OOP\obj\Debug\OOP.pdb

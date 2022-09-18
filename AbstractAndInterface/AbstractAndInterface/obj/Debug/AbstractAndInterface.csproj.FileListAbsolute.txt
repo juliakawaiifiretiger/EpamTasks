@@ -1,0 +1,6 @@
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\AbstractAndInterface\AbstractAndInterface\bin\Debug\AbstractAndInterface.exe.config
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\AbstractAndInterface\AbstractAndInterface\bin\Debug\AbstractAndInterface.exe
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\AbstractAndInterface\AbstractAndInterface\bin\Debug\AbstractAndInterface.pdb
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\AbstractAndInterface\AbstractAndInterface\obj\Debug\AbstractAndInterface.csprojAssemblyReference.cache
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\AbstractAndInterface\AbstractAndInterface\obj\Debug\AbstractAndInterface.exe
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\AbstractAndInterface\AbstractAndInterface\obj\Debug\AbstractAndInterface.pdb

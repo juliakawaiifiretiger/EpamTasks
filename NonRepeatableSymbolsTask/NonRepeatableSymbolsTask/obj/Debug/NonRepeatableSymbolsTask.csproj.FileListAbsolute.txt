@@ -1,0 +1,6 @@
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\NonRepeatableSymbolsTask\NonRepeatableSymbolsTask\bin\Debug\NonRepeatableSymbolsTask.exe.config
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\NonRepeatableSymbolsTask\NonRepeatableSymbolsTask\bin\Debug\NonRepeatableSymbolsTask.exe
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\NonRepeatableSymbolsTask\NonRepeatableSymbolsTask\bin\Debug\NonRepeatableSymbolsTask.pdb
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\NonRepeatableSymbolsTask\NonRepeatableSymbolsTask\obj\Debug\NonRepeatableSymbolsTask.exe
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\NonRepeatableSymbolsTask\NonRepeatableSymbolsTask\obj\Debug\NonRepeatableSymbolsTask.pdb
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\NonRepeatableSymbolsTask\NonRepeatableSymbolsTask\obj\Debug\NonRepeatableSymbolsTask.csprojAssemblyReference.cache

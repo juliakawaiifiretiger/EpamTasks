@@ -1,0 +1,6 @@
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\ConvertNumberTask\ConvertNumberTask\bin\Debug\ConvertNumberTask.exe.config
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\ConvertNumberTask\ConvertNumberTask\bin\Debug\ConvertNumberTask.exe
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\ConvertNumberTask\ConvertNumberTask\bin\Debug\ConvertNumberTask.pdb
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\ConvertNumberTask\ConvertNumberTask\obj\Debug\ConvertNumberTask.csprojAssemblyReference.cache
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\ConvertNumberTask\ConvertNumberTask\obj\Debug\ConvertNumberTask.exe
+C:\Users\Bogdan.DESKTOP-26DL0MI\source\repos\ConvertNumberTask\ConvertNumberTask\obj\Debug\ConvertNumberTask.pdb
